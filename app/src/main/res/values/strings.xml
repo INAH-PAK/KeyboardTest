@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeyboardTest</string>
+
+    <string-array name="popView">
+        <item />
+    </string-array>
+</resources>
