@@ -6,10 +6,11 @@
     android:columnCount="5"
     android:layout_height="wrap_content">
 
-    <Button
+    <TextView
         android:id="@+id/btn1"
         android:layout_width="60dp"
         android:layout_height="wrap_content"
+        android:focusableInTouchMode="true"
         android:text="ㅋㅋ"
         android:textSize="12dp"/>
     <Button
