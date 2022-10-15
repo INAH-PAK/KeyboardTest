@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/KeyboardTest/app/src/main/res/drawable/button_effect.xml" value="0.1" />
+        <entry key="..\:/Android/KeyboardTest/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1" />
         <entry key="..\:/Android/KeyboardTest/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Android/KeyboardTest/app/src/main/res/layout/my_keyboard.xml" value="0.21197916666666666" />
-        <entry key="..\:/Android/KeyboardTest/app/src/main/res/layout/popup_view.xml" value="0.21614583333333334" />
+        <entry key="..\:/Android/KeyboardTest/app/src/main/res/layout/popup_view.xml" value="0.264" />
       </map>
     </option>
   </component>
